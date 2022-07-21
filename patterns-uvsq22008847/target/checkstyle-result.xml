@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.2.1">
+<file name="E:\Code\MIN17201_TD2\patterns-uvsq22008847\src\main\java\fr\uvsq\hal\pglp\patterns\Element.java">
+<error line="3" column="1" severity="warning" message="缺少 Javadoc 。" source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="E:\Code\MIN17201_TD2\patterns-uvsq22008847\src\main\java\fr\uvsq\hal\pglp\patterns\Employee.java">
+<error line="16" column="41" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="47" column="3" severity="warning" message="缺少 Javadoc 。" source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="E:\Code\MIN17201_TD2\patterns-uvsq22008847\src\main\java\fr\uvsq\hal\pglp\patterns\PhoneNumberType.java">
+<error line="3" column="1" severity="warning" message="缺少 Javadoc 。" source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="4" column="8" severity="warning" message="&apos;,&apos; 后应有空格。" source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+</file>
+</checkstyle>
